@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Line Editor
 
 A terminal-based line editor written in C.
@@ -47,3 +48,6 @@ Linux or macOS:
 ```
 
 At the prompt, type `help` for the command summary. See [HELP.md](HELP.md) for full usage examples.
+=======
+# line_editor
+>>>>>>> efa1de33f4092c5cd5522a22cd8b7edde91011b3
